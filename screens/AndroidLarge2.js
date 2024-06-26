@@ -41,7 +41,7 @@ const AndroidLarge2 = () => {
       </View>
       <Pressable
         style={[styles.buttonCompact, styles.field2SpaceBlock]}
-        onPress={() => navigation.navigate("AndroidLarge111")}
+        onPress={() => navigation.navigate("AndroidLarge11")}
       >
         <Text style={[styles.fand, styles.fandTypo]}>fand</Text>
       </Pressable>

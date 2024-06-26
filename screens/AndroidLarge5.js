@@ -45,7 +45,7 @@ const AndroidLarge5 = () => {
         </Pressable>
         <Pressable
           style={[styles.tabBarItem2, styles.tabItemPosition]}
-          onPress={() => navigation.navigate("AndroidLarge111")}
+          onPress={() => navigation.navigate("AndroidLarge11")}
         >
           <Text style={[styles.crowdfunding, styles.homeTypo]}>
             crowdFunding

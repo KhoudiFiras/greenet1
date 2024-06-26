@@ -6,7 +6,7 @@ import Card from "../components/Card";
 import Tabs1 from "../components/Tabs1";
 import { Color, FontFamily, FontSize, Border, Padding } from "../GlobalStyles";
 
-const AndroidLarge111 = () => {
+const AndroidLarge11 = () => {
   const navigation = useNavigation();
 
   return (
@@ -193,4 +193,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default AndroidLarge111;
+export default AndroidLarge11;

@@ -36,7 +36,7 @@ const AndroidLarge2 = () => {
       </View>
       <Pressable
         style={[styles.buttonSecondary1, styles.buttonShadowBox]}
-        onPress={() => navigation.navigate("AndroidLarge111")}
+        onPress={() => navigation.navigate("AndroidLarge11")}
       >
         <Text style={[styles.tokenize, styles.titleTypo]}>{`Submit
 `}</Text>
