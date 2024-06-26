@@ -44,8 +44,8 @@ const App = () => {
               options={{ headerShown: false }}
             />
             <Stack.Screen
-              name="AndroidLarge111"
-              component={AndroidLarge111}
+              name="AndroidLarge1"
+              component={AndroidLarge1}
               options={{ headerShown: false }}
             />
             <Stack.Screen
