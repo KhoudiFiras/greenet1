@@ -4,7 +4,7 @@ import { StyleSheet, View } from "react-native";
 import BottomTabBar from "../components/BottomTabBar";
 import { Color } from "../GlobalStyles";
 
-const AndroidLarge11 = () => {
+const AndroidLarge1 = () => {
   return (
     <View style={styles.androidLarge4}>
       <Image
@@ -54,4 +54,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default AndroidLarge11;
+export default AndroidLarge1;
