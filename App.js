@@ -4,7 +4,6 @@ import { NavigationContainer } from "@react-navigation/native";
 import { useFonts } from "expo-font";
 import AndroidLarge from "./screens/AndroidLarge";
 import AndroidLarge1 from "./components/AndroidLarge1";
-import IPhone1314 from "./screens/IPhone1314";
 import AndroidLarge11 from "./screens/AndroidLarge1";
 import TabBarItem from "./components/TabBarItem";
 import TabBarItem1 from "./components/TabBarItem1";
